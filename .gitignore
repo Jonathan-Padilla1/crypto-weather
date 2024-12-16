@@ -20,3 +20,7 @@ Thumbs.db
 # Other
 *.log
 
+
+# SQLite database and instance folder
+instance/
+*.db
