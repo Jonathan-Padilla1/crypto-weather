@@ -1,0 +1,22 @@
+# Virtual environment folders
+env/
+.venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Editor configuration
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Other
+*.log
+
